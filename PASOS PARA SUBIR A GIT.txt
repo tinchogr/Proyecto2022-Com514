@@ -14,3 +14,29 @@ subir el codigo de la computadora mandarlo a github (PUSH)
 		…or push an existing repository from the command line (COPIAR Y METERLO EN LA CONSOLA DEL VISUALSTUDIOCODE)
 
 y ahi ya sube todos los archivos
+
+
+
+
+
+AGREGO MAS CODIGO
+
+GUARDO
+
+PESTAÑA COMPARTIR Y MAS
+
+PONGO UN NUEVO NOMBRE Y COMIT
+
+Y EN EL TERMINAL PONER    git push
+
+y ya ahi lo renueva en el github.com
+
+
+
+para que lo lea otro compañero
+CODE  / COPIAR EL LINK HTML / Y PASARLE A LOS COMPAÑEROS
+
+compañero crea carpeta y en el terminal 
+git clone y pegar el link
+
+
