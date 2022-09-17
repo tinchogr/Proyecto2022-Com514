@@ -1,0 +1,16 @@
+git init
+
+git config user.name
+
+git config user.email
+
+y despues desde la pestaña "compartir" le apreto el + para pasarlo del U hacia la A
+
+y despues desde la pestaña "compartir" le pongo un nombre de la primera version, y le pongo commit o tick
+
+en https://github.com/ poner el boton create repository o new y ponerle un nombre y abajo darle Create Repository
+
+subir el codigo de la computadora mandarlo a github (PUSH)
+		…or push an existing repository from the command line (COPIAR Y METERLO EN LA CONSOLA DEL VISUALSTUDIOCODE)
+
+y ahi ya sube todos los archivos
